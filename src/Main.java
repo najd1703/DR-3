@@ -63,13 +63,13 @@ public class Main {
         int two = 2;
         int three = 3;
         if (one > two && one > three) {
-            System.out.println("Самое большое число- " + one);
+            System.out.println("Самое большое число " + one);
         } else {
             if (two > one && two > three) {
-                System.out.println("Самое большое число- " + two);
+                System.out.println("Самое большое число " + two);
             } else {
                 if (three > one && three > two) {
-                    System.out.println("Самое большое число- " + three);
+                    System.out.println("Самое большое число " + three);
                 }
             }
         }
