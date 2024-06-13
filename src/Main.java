@@ -1,13 +1,13 @@
 public class Main {
     public static void main(String[] args) {
-        int age = 18;
+        int age = 19;
         if (age >= 18) {
             System.out.println("Если возраст человека равен " + age + ",то он совершеннолетний");
         }
         if (age < 18) {
             System.out.println("Если возраст человека равен " + age + " он не достиг совершеннолетия, нужно немного подождать");
         }
-        //задача 2//
+        //задача 2// /
         int temperature1 = 2;
         if (temperature1 < 5) {
             System.out.println("Температура на улице " + temperature1 + " градуса, лучше сиди дома и попивай чаёчек");
